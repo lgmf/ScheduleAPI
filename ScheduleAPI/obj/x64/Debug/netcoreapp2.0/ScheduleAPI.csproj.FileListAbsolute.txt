@@ -1,0 +1,11 @@
+D:\Projects\ScheduleAPI\ScheduleAPI\obj\x64\Debug\netcoreapp2.0\ScheduleAPI.csprojResolveAssemblyReference.cache
+D:\Projects\ScheduleAPI\ScheduleAPI\obj\x64\Debug\netcoreapp2.0\ScheduleAPI.csproj.CoreCompileInputs.cache
+D:\Projects\ScheduleAPI\ScheduleAPI\obj\x64\Debug\netcoreapp2.0\ScheduleAPI.AssemblyInfoInputs.cache
+D:\Projects\ScheduleAPI\ScheduleAPI\obj\x64\Debug\netcoreapp2.0\ScheduleAPI.AssemblyInfo.cs
+D:\Projects\ScheduleAPI\ScheduleAPI\bin\x64\Debug\netcoreapp2.0\ScheduleAPI.deps.json
+D:\Projects\ScheduleAPI\ScheduleAPI\bin\x64\Debug\netcoreapp2.0\ScheduleAPI.runtimeconfig.json
+D:\Projects\ScheduleAPI\ScheduleAPI\bin\x64\Debug\netcoreapp2.0\ScheduleAPI.runtimeconfig.dev.json
+D:\Projects\ScheduleAPI\ScheduleAPI\bin\x64\Debug\netcoreapp2.0\ScheduleAPI.dll
+D:\Projects\ScheduleAPI\ScheduleAPI\bin\x64\Debug\netcoreapp2.0\ScheduleAPI.pdb
+D:\Projects\ScheduleAPI\ScheduleAPI\obj\x64\Debug\netcoreapp2.0\ScheduleAPI.dll
+D:\Projects\ScheduleAPI\ScheduleAPI\obj\x64\Debug\netcoreapp2.0\ScheduleAPI.pdb
